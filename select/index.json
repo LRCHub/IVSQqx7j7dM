@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Blink Gone",
+  "base_artist": "Rubyeye、Park Byeonghoon",
+  "createdAt": "2026-04-01T04:07:51.531837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8)",
+      "artist": "BL8M • AKUGETSU",
+      "has_synced": true,
+      "path": "select/01_Blink_Gone_(VIVINOS_-_ALNST_Original_Soundtrack_Part.8)_BL8M_•_AKUGETSU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8)",
+      "artist": "BL8M, AKUGETSU",
+      "has_synced": true,
+      "path": "select/02_Blink_Gone_(VIVINOS_-_ALNST_Original_Soundtrack_Part.8)_BL8M,_AKUGETSU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8)",
+      "artist": "AKUGETSU",
+      "has_synced": true,
+      "path": "select/03_Blink_Gone_(VIVINOS_-_ALNST_Original_Soundtrack_Part.8)_AKUGETSU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8)",
+      "artist": "BL8M • AKUGETSU",
+      "has_synced": true,
+      "path": "select/04_Blink_Gone_(VIVINOS_-_ALNST_Original_Soundtrack_Part.8)_BL8M_•_AKUGETSU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8)",
+      "artist": "BL8M",
+      "has_synced": true,
+      "path": "select/05_Blink_Gone_(VIVINOS_-_ALNST_Original_Soundtrack_Part.8)_BL8M.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blink Gone (from “Alien Stage”)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/06_Blink_Gone_(from_“Alien_Stage”)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blink Gone (From “Alien Stage”) [feat. Nerissa Ravencroft]",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/07_Blink_Gone_(From_“Alien_Stage”)_[feat._Nerissa_Ravencroft]_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blink Gone (From \"Alien Stage\")",
+      "artist": "AmaLee feat. Nerissa Ravencroft",
+      "has_synced": false,
+      "path": "select/08_Blink_Gone_(From__Alien_Stage_)_AmaLee_feat._Nerissa_Ravencroft.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blink Gone (비비노스 - 에이스테 Original Soundtrack Part.8)",
+      "artist": "BL8M",
+      "has_synced": true,
+      "path": "select/09_Blink_Gone_(비비노스_-_에이스테_Original_Soundtrack_Part.8)_BL8M.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8)",
+      "artist": "BL8M/AKUGETSU",
+      "has_synced": true,
+      "path": "select/10_Blink_Gone_(VIVINOS_-_ALNST_Original_Soundtrack_Part.8)_BL8M_AKUGETSU.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blink Gone",
+      "artist": "Rubyeye/PARK BYEONG HOON",
+      "has_synced": true,
+      "path": "select/11_Blink_Gone_Rubyeye_PARK_BYEONG_HOON.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blink Gone (From “Alien Stage”)",
+      "artist": "AmaLee feat. Nerissa Ravencroft",
+      "has_synced": true,
+      "path": "select/12_Blink_Gone_(From_“Alien_Stage”)_AmaLee_feat._Nerissa_Ravencroft.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blink Gone",
+      "artist": "BL8M, AKUGETSU",
+      "has_synced": true,
+      "path": "select/13_Blink_Gone_BL8M,_AKUGETSU.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blink Gone (from “Alien Stage”) (feat. Nerissa Ravencroft)",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/14_Blink_Gone_(from_“Alien_Stage”)_(feat._Nerissa_Ravencroft)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blink Gone (from “Alien Stage”)",
+      "artist": "AmaLee/Nerissa Ravencroft",
+      "has_synced": true,
+      "path": "select/15_Blink_Gone_(from_“Alien_Stage”)_AmaLee_Nerissa_Ravencroft.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blink Gone",
+      "artist": "BL8M/??",
+      "has_synced": true,
+      "path": "select/16_Blink_Gone_BL8M.lrc"
+    }
+  ]
+}
